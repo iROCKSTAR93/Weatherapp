@@ -1,0 +1,35 @@
+.main-div{
+  height:500px;
+  width:400px;
+  margin:40px auto;
+  background-color: cornflowerblue;
+}
+.main-div .upper-part{
+ 
+  padding: 50px 0px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.upper-part input{
+  width:230px;
+  font-size: 18px;
+  height:40px;
+  outline: none;
+  border-radius: 8px;
+}
+.upper-part button{
+  width:55px;
+  background-color: rgb(209, 81, 26);
+  outline: none;
+  color: white;
+  height:35px;
+  border-radius: 18px;
+  cursor: pointer;
+}
+.lower-div{
+  
+  color: white;
+  line-height:45px;
+  margin-top: 25px;
+  text-align: center;
+}
